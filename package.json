@@ -1,5 +1,5 @@
 {
-    "name": "greeting-app",
+    "name": "greetin-app",
     "version": "1.0.0",
     "description": "Ein einfacher Gruss",
     "main": "server.js",
