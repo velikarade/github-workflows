@@ -1,4 +1,4 @@
-name: BMI Calculator
+name: greeting-app
 
 on:
   push:
